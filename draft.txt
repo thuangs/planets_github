@@ -1,1 +1,2 @@
-one line in first draft.txt
+one line in first draft
+this is the second line 
